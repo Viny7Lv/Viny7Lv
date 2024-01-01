@@ -7,7 +7,7 @@
 
 ![Viny GitHub stats](https://github-readme-stats.vercel.app/api?username=Viny7Lv&show_icons=true&theme=blue_navy&count_private=true)
 
-![Viny Github stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=transparent)).
+![Viny Github stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=transparent).
 
 ## Tecnologias que eu uso no meu dia
 
