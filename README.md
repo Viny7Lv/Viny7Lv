@@ -1,7 +1,7 @@
 ## Olá!! meu nome é Viny e eu programo sites :)
 
 <div  align="center" style="margin-bottom:100px">
-<img width=47% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Viny7Lv&theme=algolia&mode=weekly" />
+<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Viny7Lv&theme=algolia&mode=weekly" />
 <img width=47% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Viny7Lv&show_icons=true&theme=algolia&layout=compact" />
 </div>
 
