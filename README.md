@@ -1,10 +1,8 @@
 ## Olá!! meu nome é Viny e eu programo sites :)
 
-<div style="display: inline-block;">
-
-![Viny GitHub stats](https://github-readme-stats.vercel.app/api?username=Viny7Lv&show_icons=true&theme=holi&count_private=true)
-    
-<img width=400px src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Viny7Lv&show_icons=true&theme=holi&layout=compact">
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Viny7Lv&theme=algolia&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Viny7Lv&show_icons=true&theme=algolia&layout=compact" />
 </div>
 
 ## Tecnologias que eu uso no meu dia
