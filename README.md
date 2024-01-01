@@ -5,7 +5,7 @@
 <img width=45% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Viny7Lv&show_icons=true&theme=algolia&layout=compact" />
 </div>
 
-## Melhores Repositorios
+## Melhores Repositórios
 
 <a href="https://github.com/Viny7Lv/projeto-one-piece-devemdobro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=projeto-one-piece-devemdobro&cache_seconds=86400&theme=holi" />
