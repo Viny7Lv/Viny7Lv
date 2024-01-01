@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
-![Viny7's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue_icons=true)
+![Viny7's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dracula_icons=true)
 
 ## Tecnologias que eu uso no meu dia
 
