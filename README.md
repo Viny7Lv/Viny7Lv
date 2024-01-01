@@ -7,7 +7,7 @@
 
 ![Viny GitHub stats](https://github-readme-stats.vercel.app/api?username=Viny7Lv&show_icons=true&theme=blue_navy&count_private=true)
 
-![Viny Github stats](https://github-readme-stats.vercel.app/api/pin/?username=viny7lv&repo=github-readme-stats&cache_seconds=86400&theme=blue_navy).
+![Viny Github stats](https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=github-readme-stats&cache_seconds=86400&theme=blue_navy).
 
 ## Tecnologias que eu uso no meu dia
 
