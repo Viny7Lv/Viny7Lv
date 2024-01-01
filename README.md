@@ -2,7 +2,7 @@
 
 ![Viny GitHub stats](https://github-readme-stats.vercel.app/api?username=Viny7Lv&show_icons=true&theme=holi&count_private=true)
 
-<img width=100% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Viny7Lv&show_icons=true&theme=holi&layout=compact" />
+<img width=400px src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Viny7Lv&show_icons=true&theme=holi&layout=compact"/>
 
 ## Tecnologias que eu uso no meu dia
 
