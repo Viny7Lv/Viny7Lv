@@ -1,8 +1,11 @@
 ## Olá!! meu nome é Viny e eu programo sites :)
 
-![Viny GitHub stats](https://github-readme-stats.vercel.app/api?username=Viny7Lv&show_icons=true&theme=holi&count_private=true)
+<div style="display: inline-block;">
 
-<img width=400px src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Viny7Lv&show_icons=true&theme=holi&layout=compact"/>
+![Viny GitHub stats](https://github-readme-stats.vercel.app/api?username=Viny7Lv&show_icons=true&theme=holi&count_private=true)
+    
+<img width=400px src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Viny7Lv&show_icons=true&theme=holi&layout=compact">
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
