@@ -8,10 +8,10 @@
 ## Melhores Repositorios
 
 <a href="https://github.com/Viny7Lv/projeto-one-piece2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=projeto-one-piece2&cache_seconds=86400&theme=holi" style=" height:135px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=projeto-one-piece2&cache_seconds=86400&theme=holi" style=" height:130px;"/>
 </a>
 <a href="https://github.com/Viny7Lv/projeto-android">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=projeto-android&cache_seconds=86400&theme=holi" style=" height:135px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=projeto-android&cache_seconds=86400&theme=holi" style=" height:130px;"/>
 </a>
 
 ## Tecnologias que eu uso no meu dia
