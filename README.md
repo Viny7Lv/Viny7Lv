@@ -8,7 +8,7 @@
 ## Melhores Repositorios
 
 <a href="https://github.com/Viny7Lv/projetin-one-piece">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=projetin-one-piece&cache_seconds=86400&theme=holi" style=" height:125px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=projetin-one-piece&cache_seconds=86400&theme=holi" style=" height:150px;"/>
 </a>
 <a href="https://github.com/Viny7Lv/projeto-android">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=projeto-android&cache_seconds=86400&theme=holi" />
