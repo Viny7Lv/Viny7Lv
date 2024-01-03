@@ -11,6 +11,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=projeto-one-piece-devemdobro&cache_seconds=86400&theme=holi" />
 </a>
 
+<a href="https://github.com/Viny7Lv/netflix-logo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=netflix-logo&cache_seconds=86400&theme=holi" />
+</a>
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
