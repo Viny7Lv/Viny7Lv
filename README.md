@@ -15,6 +15,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=netflix-logo&cache_seconds=86400&theme=holi" />
 </a>
 
+<a href="https://github.com/Viny7Lv/mcdonalds-logo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=mcdonalds-logo&cache_seconds=86400&theme=holi" />
+</a>
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
