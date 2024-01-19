@@ -1,4 +1,4 @@
-## Oiii!! Meu nome é Viny e eu programo coisas :)
+<h1> Oiii!! Meu nome é Viny e eu programo coisas :) </h1>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=52.8% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Viny7Lv&theme=algolia&mode=weekly" />
