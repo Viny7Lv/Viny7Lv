@@ -5,6 +5,7 @@
 <img width=45% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Viny7Lv&show_icons=true&theme=algolia&layout=compact" />
 </div>
 
+<br></br>
 <img src="bartender.gif" alt="bartender">
 
 ## Melhores Repositórios
