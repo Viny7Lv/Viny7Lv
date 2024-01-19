@@ -5,6 +5,8 @@
 <img width=45% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Viny7Lv&show_icons=true&theme=algolia&layout=compact" />
 </div>
 
+<img src="bartender.gif" alt="bartender">
+
 ## Melhores Repositórios
 
 <a href="https://github.com/Viny7Lv/projeto-one-piece-devemdobro">
@@ -26,8 +28,6 @@
 <a href="https://github.com/Viny7Lv/projeto-cordel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=projeto-cordel&cache_seconds=86400&theme=holi" />
 </a>
-
-<img src="bartender.gif" alt="bartender">
 
 ## Tecnologias que eu uso no meu dia
 
