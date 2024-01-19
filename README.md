@@ -11,6 +11,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=projeto-one-piece-devemdobro&cache_seconds=86400&theme=holi" />
 </a>
 
+<img src="bartender.gif" alt="bartender">
+
 <a href="https://github.com/Viny7Lv/netflix-logo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=netflix-logo&cache_seconds=86400&theme=holi" />
 </a>
