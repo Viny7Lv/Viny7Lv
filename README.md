@@ -38,3 +38,7 @@
 <a href="https://github.com/Viny7Lv/projeto-cordel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=projeto-cordel&cache_seconds=86400&theme=holi" />
 </a>
+
+<a href="https://github.com/Viny7Lv/qr_code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=qr_code&cache_seconds=86400&theme=holi" />
+</a>
