@@ -23,16 +23,20 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=projeto-one-piece-devemdobro&cache_seconds=86400&theme=holi" />
 </a>
 
+<a href="https://github.com/Viny7Lv/projeto-gta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=projeto-gta&cache_seconds=86400&theme=holi" />
+</a>
+
+<a href="https://github.com/Viny7Lv/login">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=login&cache_seconds=86400&theme=holi" />
+</a>
+
 <a href="https://github.com/Viny7Lv/netflix-logo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=netflix-logo&cache_seconds=86400&theme=holi" />
 </a>
 
 <a href="https://github.com/Viny7Lv/mcdonalds-logo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=mcdonalds-logo&cache_seconds=86400&theme=holi" />
-</a>
-
-<a href="https://github.com/Viny7Lv/login">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=login&cache_seconds=86400&theme=holi" />
 </a>
 
 <a href="https://github.com/Viny7Lv/projeto-cordel">
@@ -45,8 +49,4 @@
 
 <a href="https://github.com/Viny7Lv/blog_preview_card">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=blog_preview_card&cache_seconds=86400&theme=holi" />
-</a>
-
-<a href="https://github.com/Viny7Lv/projeto-gta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=projeto-gta&cache_seconds=86400&theme=holi" />
 </a>
