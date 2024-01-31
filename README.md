@@ -17,7 +17,7 @@
 <br></br>
 <img src="bartender.gif" alt="bartender">
 
-## Melhores Repositórios
+## Melhores Repositórios e Projetos
 
 <a href="https://github.com/Viny7Lv/projeto-one-piece-devemdobro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=projeto-one-piece-devemdobro&cache_seconds=86400&theme=holi" />
