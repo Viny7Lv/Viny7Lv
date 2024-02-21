@@ -50,3 +50,7 @@
 <a href="https://github.com/Viny7Lv/blog_preview_card">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=blog_preview_card&cache_seconds=86400&theme=holi" />
 </a>
+
+<a href="https://github.com/Viny7Lv/results-summary-component">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viny7Lv&repo=results-summary-component&cache_seconds=86400&theme=holi" />
+</a>
